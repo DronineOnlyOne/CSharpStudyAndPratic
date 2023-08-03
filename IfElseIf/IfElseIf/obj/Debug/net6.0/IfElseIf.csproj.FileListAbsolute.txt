@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\bin\Debug\net6.0\IfElseIf.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\bin\Debug\net6.0\IfElseIf.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\bin\Debug\net6.0\IfElseIf.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\bin\Debug\net6.0\IfElseIf.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\bin\Debug\net6.0\IfElseIf.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\obj\Debug\net6.0\IfElseIf.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\obj\Debug\net6.0\IfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\obj\Debug\net6.0\IfElseIf.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\obj\Debug\net6.0\IfElseIf.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\obj\Debug\net6.0\IfElseIf.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\obj\Debug\net6.0\IfElseIf.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\obj\Debug\net6.0\refint\IfElseIf.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\obj\Debug\net6.0\IfElseIf.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\obj\Debug\net6.0\IfElseIf.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\IfElseIf\IfElseIf\obj\Debug\net6.0\ref\IfElseIf.dll
