@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\bin\Debug\net6.0\TryECatch.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\bin\Debug\net6.0\TryECatch.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\bin\Debug\net6.0\TryECatch.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\bin\Debug\net6.0\TryECatch.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\bin\Debug\net6.0\TryECatch.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\obj\Debug\net6.0\TryECatch.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\obj\Debug\net6.0\TryECatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\obj\Debug\net6.0\TryECatch.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\obj\Debug\net6.0\TryECatch.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\obj\Debug\net6.0\TryECatch.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\obj\Debug\net6.0\TryECatch.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\obj\Debug\net6.0\refint\TryECatch.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\obj\Debug\net6.0\TryECatch.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\obj\Debug\net6.0\TryECatch.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryECatch\TryECatch\obj\Debug\net6.0\ref\TryECatch.dll

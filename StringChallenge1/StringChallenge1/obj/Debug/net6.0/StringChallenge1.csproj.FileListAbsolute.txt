@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\bin\Debug\net6.0\StringChallenge1.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\bin\Debug\net6.0\StringChallenge1.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\bin\Debug\net6.0\StringChallenge1.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\bin\Debug\net6.0\StringChallenge1.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\bin\Debug\net6.0\StringChallenge1.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\obj\Debug\net6.0\StringChallenge1.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\obj\Debug\net6.0\StringChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\obj\Debug\net6.0\StringChallenge1.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\obj\Debug\net6.0\StringChallenge1.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\obj\Debug\net6.0\StringChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\obj\Debug\net6.0\StringChallenge1.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\obj\Debug\net6.0\refint\StringChallenge1.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\obj\Debug\net6.0\StringChallenge1.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\obj\Debug\net6.0\StringChallenge1.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\StringChallenge1\StringChallenge1\obj\Debug\net6.0\ref\StringChallenge1.dll
