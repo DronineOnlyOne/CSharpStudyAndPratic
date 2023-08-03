@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\bin\Debug\net6.0\ConsoleAppCM.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\bin\Debug\net6.0\ConsoleAppCM.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\bin\Debug\net6.0\ConsoleAppCM.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\bin\Debug\net6.0\ConsoleAppCM.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\bin\Debug\net6.0\ConsoleAppCM.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\obj\Debug\net6.0\ConsoleAppCM.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\obj\Debug\net6.0\ConsoleAppCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\obj\Debug\net6.0\ConsoleAppCM.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\obj\Debug\net6.0\ConsoleAppCM.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\obj\Debug\net6.0\ConsoleAppCM.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\obj\Debug\net6.0\ConsoleAppCM.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\obj\Debug\net6.0\refint\ConsoleAppCM.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\obj\Debug\net6.0\ConsoleAppCM.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\obj\Debug\net6.0\ConsoleAppCM.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppCM\ConsoleAppCM\obj\Debug\net6.0\ref\ConsoleAppCM.dll

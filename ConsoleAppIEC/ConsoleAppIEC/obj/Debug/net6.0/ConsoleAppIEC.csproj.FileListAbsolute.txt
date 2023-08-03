@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\bin\Debug\net6.0\ConsoleAppIEC.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\bin\Debug\net6.0\ConsoleAppIEC.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\bin\Debug\net6.0\ConsoleAppIEC.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\bin\Debug\net6.0\ConsoleAppIEC.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\bin\Debug\net6.0\ConsoleAppIEC.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\obj\Debug\net6.0\ConsoleAppIEC.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\obj\Debug\net6.0\ConsoleAppIEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\obj\Debug\net6.0\ConsoleAppIEC.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\obj\Debug\net6.0\ConsoleAppIEC.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\obj\Debug\net6.0\ConsoleAppIEC.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\obj\Debug\net6.0\ConsoleAppIEC.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\obj\Debug\net6.0\refint\ConsoleAppIEC.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\obj\Debug\net6.0\ConsoleAppIEC.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\obj\Debug\net6.0\ConsoleAppIEC.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppIEC\ConsoleAppIEC\obj\Debug\net6.0\ref\ConsoleAppIEC.dll

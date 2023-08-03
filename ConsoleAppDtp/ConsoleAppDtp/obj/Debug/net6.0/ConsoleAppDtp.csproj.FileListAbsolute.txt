@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\bin\Debug\net6.0\ConsoleAppDtp.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\bin\Debug\net6.0\ConsoleAppDtp.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\bin\Debug\net6.0\ConsoleAppDtp.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\bin\Debug\net6.0\ConsoleAppDtp.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\bin\Debug\net6.0\ConsoleAppDtp.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\obj\Debug\net6.0\ConsoleAppDtp.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\obj\Debug\net6.0\ConsoleAppDtp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\obj\Debug\net6.0\ConsoleAppDtp.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\obj\Debug\net6.0\ConsoleAppDtp.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\obj\Debug\net6.0\ConsoleAppDtp.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\obj\Debug\net6.0\ConsoleAppDtp.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\obj\Debug\net6.0\refint\ConsoleAppDtp.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\obj\Debug\net6.0\ConsoleAppDtp.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\obj\Debug\net6.0\ConsoleAppDtp.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\ConsoleAppDtp\ConsoleAppDtp\obj\Debug\net6.0\ref\ConsoleAppDtp.dll
