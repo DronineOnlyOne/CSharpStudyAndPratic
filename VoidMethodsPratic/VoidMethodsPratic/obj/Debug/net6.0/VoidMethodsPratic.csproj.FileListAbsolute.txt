@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\bin\Debug\net6.0\VoidMethodsPratic.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\bin\Debug\net6.0\VoidMethodsPratic.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\bin\Debug\net6.0\VoidMethodsPratic.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\bin\Debug\net6.0\VoidMethodsPratic.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\bin\Debug\net6.0\VoidMethodsPratic.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\obj\Debug\net6.0\VoidMethodsPratic.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\obj\Debug\net6.0\VoidMethodsPratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\obj\Debug\net6.0\VoidMethodsPratic.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\obj\Debug\net6.0\VoidMethodsPratic.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\obj\Debug\net6.0\VoidMethodsPratic.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\obj\Debug\net6.0\VoidMethodsPratic.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\obj\Debug\net6.0\refint\VoidMethodsPratic.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\obj\Debug\net6.0\VoidMethodsPratic.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\obj\Debug\net6.0\VoidMethodsPratic.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\VoidMethodsPratic\VoidMethodsPratic\obj\Debug\net6.0\ref\VoidMethodsPratic.dll

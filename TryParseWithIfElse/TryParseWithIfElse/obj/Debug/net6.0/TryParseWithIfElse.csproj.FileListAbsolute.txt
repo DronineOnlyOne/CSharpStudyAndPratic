@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\bin\Debug\net6.0\TryParseWithIfElse.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\bin\Debug\net6.0\TryParseWithIfElse.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\bin\Debug\net6.0\TryParseWithIfElse.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\bin\Debug\net6.0\TryParseWithIfElse.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\bin\Debug\net6.0\TryParseWithIfElse.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\obj\Debug\net6.0\TryParseWithIfElse.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\obj\Debug\net6.0\TryParseWithIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\obj\Debug\net6.0\TryParseWithIfElse.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\obj\Debug\net6.0\TryParseWithIfElse.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\obj\Debug\net6.0\TryParseWithIfElse.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\obj\Debug\net6.0\TryParseWithIfElse.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\obj\Debug\net6.0\refint\TryParseWithIfElse.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\obj\Debug\net6.0\TryParseWithIfElse.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\obj\Debug\net6.0\TryParseWithIfElse.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\C#\C# estudos e praticas\TryParseWithIfElse\TryParseWithIfElse\obj\Debug\net6.0\ref\TryParseWithIfElse.dll
